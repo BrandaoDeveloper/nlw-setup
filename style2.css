@@ -3,9 +3,9 @@
 }
 
 .heading {
-  position: relative;
-  width: fit-content;
-  margin: 0 auto;
+position: fixed;
+display: flex;
+margin: 30%;
 }
 
 h1 {
@@ -43,4 +43,5 @@ h1 span {
   line-height: 1em;
   letter-spacing: 0.02em;
   display: block;
+
 }
