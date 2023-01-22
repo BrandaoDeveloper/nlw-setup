@@ -3,9 +3,10 @@
 }
 
 .heading {
-position: fixed;
-display: flex;
-margin: 30%;
+  position: fixed;
+  display: flex;
+  margin: 30%;
+  font-family: "Inter";
 }
 
 h1 {
@@ -43,5 +44,4 @@ h1 span {
   line-height: 1em;
   letter-spacing: 0.02em;
   display: block;
-
 }
