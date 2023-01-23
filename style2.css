@@ -5,11 +5,11 @@
 .heading {
   position: fixed;
   margin: 30%;
-  font-family: "Inter";
+  font-family:"Inter";
 }
 
 h1 {
-  font-size: 68px;
+  font-size: min(78px, 10vw);
   line-height: 0.9em;
   text-transform: uppercase;
   text-align: center;
