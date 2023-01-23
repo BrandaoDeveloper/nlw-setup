@@ -4,7 +4,6 @@
 
 .heading {
   position: fixed;
-  display: flex;
   margin: 30%;
   font-family: "Inter";
 }
@@ -36,12 +35,12 @@ h1:before {
   height: 100%;
   top: 0%;
   left: var(--split);
-  position: absolute;
+  position: absolute;1
 }
 
 h1 span {
   font-size: 0.3em;
-  line-height: 1em;
+  line-height: 2em;
   letter-spacing: 0.02em;
   display: block;
 }
