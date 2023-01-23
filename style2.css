@@ -35,7 +35,7 @@ h1:before {
   height: 100%;
   top: 0%;
   left: var(--split);
-  position: absolute;1
+  position: absolute;
 }
 
 h1 span {
