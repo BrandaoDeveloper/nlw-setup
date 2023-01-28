@@ -30,6 +30,8 @@ button {
   color: white;
 
   display: flex;
+  justify-content: space-between;
+
   align-items: center;
   gap: 12px;
 
@@ -41,6 +43,7 @@ button {
 
 #form-habits {
   display: flex;
+  justify-content: space-between;
 
   padding: 298px 48px 48px;
   width: fit-content;
@@ -109,4 +112,9 @@ input:checked {
   button div {
     display: none;
   }
+}
+
+body {
+  background-image: url(./assets/nlw1.png);
+  background-repeat: no-repeat;
 }
